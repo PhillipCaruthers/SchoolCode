@@ -1,0 +1,5 @@
+1. <div id="top">
+2. <a href="#top">Back to top></a>
+3. <link rel="stylesheet" href="myprint.css" media="print">
+4. @media only all and {nav{width:auto:}}
+5. a {background-image: url("mysprite.gif"); position: left; background-position: top -67px; background-repeat: repeat-y;}
